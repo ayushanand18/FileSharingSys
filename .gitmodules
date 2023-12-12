@@ -1,0 +1,6 @@
+[submodule "CSS501_Group1_Server"]
+	path = CSS501_Group1_Server
+	url = https://github.com/ayushanand18/CSS501_Group1_Server
+[submodule "CSS501_Group1_Client"]
+	path = CSS501_Group1_Client
+	url = https://github.com/ayushanand18/CSS501_Group1_Client
