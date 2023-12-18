@@ -3,6 +3,8 @@ Combined Repo for Operating Systems Lab mini-project - file system sharing.
 
 > Navigate to individual repos for more information around the working and installation.
 
+## Video Link
+[![image](https://github.com/ayushanand18/FileSharingSys/assets/36472216/79e2ebb0-0929-47b9-9986-4d4b021001a8)](https://youtu.be/rCWlQhZFJfE)
 ## Project Metadata
 Ayush Anand (21CS8109)|Group Leader
 -----------|------------
